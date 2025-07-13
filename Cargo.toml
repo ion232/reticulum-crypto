@@ -2,5 +2,8 @@
 name = "reticulum-crypto"
 version = "0.1.0"
 edition = "2024"
+description = "Reticulum crypto library for operating systems and embedded devices"
+license = "Apache-2.0"
+repository = "https://github.com/ion232/reticulum-crypto"
 
 [dependencies]
